@@ -16,8 +16,8 @@ Steps:
    - Click Finish.
 3. Add Selenium and WebDriverManager libraries:
    - Download these JAR files:
-     - Selenium Java (from https://www.selenium.dev/downloads/)
-     - WebDriverManager (from https://github.com/bonigarcia/webdrivermanager)
+     - Selenium Java 
+     - WebDriverManager 
    - In Eclipse, right-click your project > Build Path > Add External Archives.
    - Select the downloaded JAR files and add them.
 
