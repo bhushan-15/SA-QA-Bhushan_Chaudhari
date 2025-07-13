@@ -18,13 +18,13 @@ Steps:
    - Download these JAR files:
      - Selenium Java 
      - WebDriverManager 
-   - In Eclipse, right-click your project > Build Path > Add External Archives.
+   - In Eclipse, right-click on project > Build Path > Add External Archives.
    - Select the downloaded JAR files and add them.
 
 4. Run your tests:
    - Open `PositivePurchaseFlow.java`.
    - Right-click inside the code editor > Run As > Java Application.
-   - See the test running in Chrome.
+   - and See the test running in Chrome.
      
    - Repeat for `NegativeLoginFlow.java`.
 
